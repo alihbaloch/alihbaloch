@@ -13,7 +13,6 @@ Welcome to my GitHub profile. My name is Ali and I'm from Canada. I am passionat
 
 ![ArticleHub Demo](https://raw.githubusercontent.com/alihbaloch/alihbaloch/main/ArticleHub%20Demo.gif)
 
-![Finance Demo](https://raw.githubusercontent.com/alihbaloch/alihbaloch/main/Finance%20Demo.gif)
 
 
 
