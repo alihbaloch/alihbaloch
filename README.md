@@ -2,4 +2,5 @@
 
 Welcome to my GitHub profile. I'm Ali from Canada. You can check my linkedIn here www.linkedin.com/in/alihbaloch. Feel free to reach out and connect!
 
-https://github.com/alihbaloch/github-readme-stats.git
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihbaloch)](https://github.com/anuraghazra/github-readme-stats)
+
