@@ -10,7 +10,6 @@ Welcome to my GitHub profile. My name is Ali and I'm from Canada. I am passionat
 * 🗃 SQLite, SQL
 
 ## Examples of Work
-Finance Demo.gif
 
 
 
