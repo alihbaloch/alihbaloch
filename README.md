@@ -1,6 +1,6 @@
-# Ali Baloch
+# Hi There, I'm Ali! 👋🏼
 
-Welcome to my GitHub profile. My name is Ali and I'm from Canada. I am passionate about Python and Django, currently learning React. You can check out my Linkedin below, feel free to reach out and connect! 
+Welcome to my GitHub profile. I am passionate about Python and Django, currently learning React. You can check out my Linkedin below, feel free to reach out and connect! 
 
 www.linkedin.com/in/alihbaloch
 
