@@ -9,7 +9,14 @@ Welcome to my GitHub profile. My name is Ali and I'm from Canada. I am passionat
 * 🔧 Django, Flask
 * 🗃 SQLite, SQL
 
+<img align="left" width="47%" "src="https://github-readme-stats.vercel.app/api?username=alihbaloch&show_icons=true&theme=radical"/> 
+<img align="left" width="47%" "src="(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)"/> 
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihbaloch&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 
 ## Examples of Work
