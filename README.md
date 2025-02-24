@@ -1,6 +1,6 @@
 # Hi There, I'm Ali! 👋🏼
 
-Welcome to my GitHub profile. I am passionate about Python and Django, currently learning React. You can check out my Linkedin below, feel free to reach out and connect! 
+I'm a technology enthusiast passionate about leveraging Python and SQL to build efficient, scalable solutions. I’m continuously striving to enhance my skillset and explore new technologies to tackle complex challenges. Feel free to explore my projects and connect with me on LinkedIn.
 
 www.linkedin.com/in/alihbaloch
 
